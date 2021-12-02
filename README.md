@@ -2,6 +2,9 @@
 o site está aqui: 
 https://drive.google.com/file/d/1BLx1c4kGkkKfywjFHyz2cv_eTj7lPLiC/view?usp=sharing
 
+
+[leo.WordPress.2021-12-02.zip](https://github.com/leonardomoraisrp/portfolio_leonardo_morais/files/7645592/leo.WordPress.2021-12-02.zip)
+
 #sessão-1 (intro)
 ![intro](https://user-images.githubusercontent.com/94178073/144514402-c5b4871e-eb37-4e34-9acf-bf395b6ea8b0.PNG)
 
