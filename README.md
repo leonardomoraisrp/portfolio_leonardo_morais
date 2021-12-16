@@ -2,6 +2,8 @@
 o site está aqui: 
 https://drive.google.com/file/d/1IRvWO2WAbm50Bx0Mk-9DHcZ1GBR08iVB/view?usp=sharing
 
+o link do site: http://leonardo-silva.soukick.ml/
+
 (arquivo xml)
 [leo.WordPress.2021-12-07.zip](https://github.com/leonardomoraisrp/portfolio_leonardo_morais/files/7670820/leo.WordPress.2021-12-07.zip)
 
